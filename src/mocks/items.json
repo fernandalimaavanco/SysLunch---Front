@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "active": true,
+        "name": "X-BACON",
+        "price": 23,
+        "description": "Um delicioso X-BACON"
+    },
+    {
+        "id": 2,
+        "active": true,
+        "name": "BATATA FRITA",
+        "price": 20,
+        "description": "Uma deliciosa BATATA FRITA"
+    },
+    {
+        "id": 3,
+        "active": true,
+        "name": "GIN TROPICAL",
+        "price": 18,
+        "description": "Um delicioso GIN TROPICAL"
+    }
+]

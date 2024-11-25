@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "tableNumber": 2,
+        "observations": "adwkmkdwnkn",
+        "createdAt": "2024-10-28",
+        "items": [
+            {
+                "id": 1,
+                "name": "X - Salada",
+                "itemCode": 1,
+                "quantity": 2,
+                "price": 23.00,
+                "observation": ""
+            },
+            {
+                "id": 2,
+                "name": "GIN Tropical",
+                "itemCode": 1,
+                "quantity": 2,
+                "price": 23.00,
+                "observation": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "tableNumber": 2,
+        "observations": "adwkmkdwnkn",
+        "createdAt": "2024-10-28",
+        "items": [
+            {
+                "id": 1,
+                "name": "Bala Fini",
+                "itemCode": 1,
+                "quantity": 2,
+                "price": 23.00,
+                "observation": ""
+            },
+            {
+                "id": 2,
+                "name": "Hot Dog",
+                "itemCode": 1,
+                "quantity": 2,
+                "price": 23.00,
+                "observation": ""
+            }
+        ]
+    }
+]
